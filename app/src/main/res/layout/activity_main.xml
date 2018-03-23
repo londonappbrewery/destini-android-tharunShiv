@@ -15,12 +15,13 @@
     <TextView
         android:id="@+id/storyTextView"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_centerHorizontal="true"
+        android:layout_height="300dp"
 
+        android:layout_alignLeft="@+id/buttonTop"
         android:layout_alignParentTop="true"
-        android:layout_marginTop="36dp"
-        android:text="@string/T1_Story"
+        android:layout_alignStart="@+id/buttonTop"
+        android:layout_marginTop="71dp"
+        android:text="@string/Intro"
         android:textColor="#ffffffff"
         android:textSize="24sp" />
 

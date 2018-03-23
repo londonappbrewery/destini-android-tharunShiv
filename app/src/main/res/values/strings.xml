@@ -1,23 +1,48 @@
 <resources>
     <string name="app_name">Numb</string>
 
-    <string name="T1_Story">Your car has blown a tire on a winding road in the middle of nowhere with no cell phone reception. You decide to hitchhike. A rusty pickup truck rumbles to a stop next to you. A man with a wide brimmed hat with soulless eyes opens the passenger door for you and asks: \"Need a ride, boy?\". </string>
-    <string name="T1_Ans1">I\'ll hop in. Thanks for the help! </string>
-    <string name="T1_Ans2">Better ask him if he\'s a murderer first. </string>
+    <string name="Intro">You\'re into the Numb. Not the song, but the storyline. Be wise and survive. See you at the end.</string>
+
+    <string name="T1_Ans1">I\'m Ready to Go! </string>
+    <string name="T1_Ans2"> Hmm.. Lets See what you got </string>
 
 
-    <string name="T2_Story">He nods slowly, unphased by the question.</string>
-    <string name="T2_Ans1">At least he\'s honest. I\'ll climb in.</string>
-    <string name="T2_Ans2">Wait, I know how to change a tire.</string>
+    <string name="T2_Story">Intro: You\'re in a remote forest house surrounded by huge tall trees. Its peaceful, sunny afternoon. You stay with your friends there. Dinner is ready.</string>
+    <string name="T2_Ans1"> Skip Dinner! Not Hungry</string>
+    <string name="T2_Ans2"> Did you say Food? I\'m always in! </string>
 
 
-    <string name="T3_Story">As you begin to drive, the stranger starts talking about his relationship with his mother. He gets angrier and angrier by the minute. He asks you to open the glovebox. Inside you find a bloody knife, two severed fingers, and a cassette tape of Elton John. He reaches for the glove box.</string>
-    <string name="T3_Ans1">I love Elton John! Hand him the cassette tape.</string>
-    <string name="T3_Ans2">It\'s him or me! You take the knife and stab him.</string>
+    <string name="T3_Story"> As planned, your friends leave for the camp that night in a nearby place. They ask you to come for the camp. </string>
+    <string name="T3_Ans1"> I would love to, lets Go!</string>
+    <string name="T3_Ans2"> Sorry, gotta take care of the house</string>
+    <string name="T3_End"> End of Flow: So you leave to the camp and have fun</string>
+
+    <string name="T4_Story"> After failing to convince you, your friends leave for the camp, you\'re alone at the house. </string>
+    <string name="T4_Ans1"> Party Time! </string>
+    <string name="T4_Ans2"> Sleep tight! </string>
+
+    <string name="T5_Story"> Suddenly there comes a continuous sound from the woods. You wake up to that sound </string>
+    <string name="T5_Ans1"> Go back to sleep </string>
+    <string name="T5_Ans2"> Go out to check it out </string>
+
+    <string name="T7_Story"> Finally satisfied with the Solo Party you had. </string>
+    <string name="T7_Ans1"> Sleep! </string>
+    <string name="T7_Ans2"> Listen to loud Music all night long! </string>
+    <string name="T7_End"> End of Flow: So you listen to music all night and next day your friends return and you have fun again.</string>
+    <string name="T7_End1"> Explore other interesting story line </string>
+    <string name="T7_End2"> Play the alternate storyline </string>
 
 
-    <string name="T4_End">What? Such a cop out! Did you know traffic accidents are the second leading cause of accidental death for most adult age groups?</string>
-    <string name="T5_End">As you smash through the guardrail and careen towards the jagged rocks below you reflect on the dubious wisdom of stabbing someone while they are driving a car you are in.</string>
-    <string name="T6_End">You bond with the murderer while crooning verses of "Can you feel the love tonight". He drops you off at the next town. Before you go he asks you if you know any good places to dump bodies. You reply: \"Try the pier.\"</string>
+    <string name="T6_Story"> The sound doesn\'t seem to stop, starts again. </string>
+    <string name="T6_Ans1"> Open the door </string>
+    <string name="T6_Ans2"> Freak out! Panic! </string>
+    <string name="T6_End"> End of Flow: Since you panicked, you faint and next day morning your friends wake you up </string>
+
+
+
+
+
+
+
 
 </resources>
