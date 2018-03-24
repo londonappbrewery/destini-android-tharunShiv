@@ -66,6 +66,44 @@
     <string name="T14_Ans1">Nod your head with worry</string>
     <string name="T14_Ans2">\"... Come lets go check it out\"</string>
 
+    <string name="T15_Story">You gain courage and two of you among others decide to walk out and check the source. Its damn dark outside.</string>
+    <string name="T15_Ans1">Take a torch</string>
+    <string name="T15_Ans2">Take a lantern</string>
+
+    <string name="T16_Story">Both of you walk fast towards the source of the sound, you\'re sweating and breathing hard. Finally you find the sound coming from the top of a tall tree in the woods</string>
+    <string name="T16_Ans1">Focus the light onto the branches</string>
+    <string name="T16_Ans2">Look at your friend with fear.</string>
+
+    <string name="T17_Story">The spooky sound stops, You\'ve no Idea whats happening.</string>
+    <string name="T17_Ans1">Return back silently</string>
+    <string name="T17_Ans2">Try to investigate further</string>
+
+    <string name="T18_Story">Since there is no clue, you return back to the cottage and tell friends that you find nothing</string>
+    <string name="T18_Ans1">Try to sleep</string>
+    <string name="T18_Ans2">Try to think about the solution</string>
+
+    <string name="T19_Story">The next morning, there is not much communication between y\'all. Everyone is worried thinking about the incident last night</string>
+    <string name="T19_Ans1">Crack a joke to make them smile</string>
+    <string name="T19_Ans2">Sing a song to make them smile</string>
+
+    <string name="T20_Story">While you make them feel happy, there is this \'Spooky sound again\', and this time somebody running into the woods through the bushes</string>
+    <string name="T20_Ans1">Run towards the source</string>
+    <string name="T20_Ans2">Wait for your friends\' reaction</string>
+
+    <string name="T21_Story">\(Brave enough\!\) You chase the object piercing through the bushes towards the tree, beneath which you stood, the previous day</string>
+    <string name="T21_Ans1">Run Faster</string>
+    <string name="T21_Ans2">Try to look at who it could be</string>
+
+    <string name="T22_Story">Your friend signals you to join him to go find the solution to the problem</string>
+    <string name="T22_Ans1">Run towards the source</string>
+    <string name="T22_Ans2">Wait for him to step front</string>
+
+    <string name="T23_Story">You see a man running towards the tree, you yell at him and ask him to stop. He turns around baffled.</string>
+    <string name="T23_Ans1">Ask him why he is here</string>
+    <string name="T23_Ans2">Ask him about the spooky sound</string>
+
+
+
 
 
 
