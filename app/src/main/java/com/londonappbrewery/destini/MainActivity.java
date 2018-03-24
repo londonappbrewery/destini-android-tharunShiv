@@ -67,6 +67,8 @@ public class MainActivity extends AppCompatActivity {
                     mButtonTop.setText(R.string.T6_Ans1);
                     mButtonBottom.setText(R.string.T6_Ans2);
                     mStoryState = 9;
+                } else if(mStoryState==9){  //go out
+                    //go out to check it out
                 }
             }
         });
@@ -113,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
                     mButtonBottom.setVisibility(View.GONE);
                     mStoryState=2;
                 }  else if(mStoryState==8){
-
+                    //came out to check
                 }
             }
         });

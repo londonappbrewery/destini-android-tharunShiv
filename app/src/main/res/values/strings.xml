@@ -21,7 +21,7 @@
     <string name="T4_Ans1"> Party Time! </string>
     <string name="T4_Ans2"> Sleep tight! </string>
 
-    <string name="T5_Story"> Suddenly there comes a continuous sound from the woods. You wake up to that sound </string>
+    <string name="T5_Story"> Suddenly there comes a continuous spooky sound from the woods. You wake up to that sound </string>
     <string name="T5_Ans1"> Go back to sleep </string>
     <string name="T5_Ans2"> Go out to check it out </string>
 
@@ -33,11 +33,38 @@
     <string name="T7_End2"> Play the alternate storyline </string>
 
 
-    <string name="T6_Story"> The sound doesn\'t seem to stop, starts again. </string>
-    <string name="T6_Ans1"> Open the door </string>
+    <string name="T6_Story"> The spooky sound doesn\'t seem to stop, starts again. </string>
+    <string name="T6_Ans1"> Go out to check it out. </string>
     <string name="T6_Ans2"> Freak out! Panic! </string>
-    <string name="T6_End"> End of Flow: Since you panicked, you faint and next day morning your friends wake you up </string>
+    <string name="T6_End"> End of Flow: Since you panicked, you faint. Stop being afraid. Survive the game. </string>
 
+    <string name="T8_Story">You stand at your doorstep, look far into the dark woods kissed by the Moon Rays of the night. The sound stops.</string>
+    <string name="T8_Ans1">\"That was just my imagination\!\"</string>
+    <string name="T8_Ans2">\"Something doesn\'t seem right\"</string>
+
+    <string name="T9_Story">\(That was a Brave one.\)You go back to sleep. The next morning, your friends arrive.</string>
+    <string name="T9_Ans1">Talk to them about this incident</string>
+    <string name="T9_Ans2">Remain calm and try to forget it.</string>
+
+    <string name="T10_Story">\(Yeah\, seems so.\)You go back to sleep. The next morning, your friends arrive.</string>
+    <string name="T10_Ans1">Talk to them about this incident</string>
+    <string name="T10_Ans2">Remain calm and try to forget it.</string>
+
+    <string name="T11_Story">You tell them about this incident. Everyone bursts into laughter. But you know what happened.</string>
+    <string name="T11_Ans1">\"I\'m not joking! nor am I sick\"</string>
+    <string name="T11_Ans2">\"...\", walk away</string>
+
+    <string name="T12_Story">\*Dinner Time\*,everyone has dinner.Everybody makes their bed and goes to sleep. There is this spooky sound from the woods again!</string>
+    <string name="T12_Ans1">Just don\'t wake up.</string>
+    <string name="T12_Ans2">Get up and look at your friends\' reaction</string>
+
+    <string name="T13_Story">Your friends wake you up, and ask whether you were talking about this, the morning.</string>
+    <string name="T13_Ans1">Nod your head with worry</string>
+    <string name="T13_Ans2">\"... Come lets go check it out\"</string>
+
+    <string name="T14_Story">Your friends are shocked, look worried. They ask you whether you were talking about this, the morning</string>
+    <string name="T14_Ans1">Nod your head with worry</string>
+    <string name="T14_Ans2">\"... Come lets go check it out\"</string>
 
 
 
