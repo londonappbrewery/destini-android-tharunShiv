@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
                     mStoryState=2;
                 }
 
+                mButtonTop.setVisibility(View.VISIBLE);
                 if(mStoryState==2){
                     mTextView.setText(R.string.T2_Story);
                     mButtonBottom.setText(R.string.T2_Ans2);
@@ -47,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                     mStoryState=4;
                 } else if(mStoryState==4){
                     mTextView.setText(R.string.T3_End);
-                    mButtonTop.setText(R.string.T7_End1);
+                    mButtonTop.setVisibility(View.GONE);              // Make button disappear
                     mButtonBottom.setText(R.string.T7_End2);
                     mStoryState=2;
                 } else if(mStoryState==5){
@@ -80,7 +81,7 @@ public class MainActivity extends AppCompatActivity {
                     Toast.makeText(getApplicationContext(), "Get ready to be Amazed!", Toast.LENGTH_SHORT).show();
                     mStoryState=2;
                 }
-
+                mButtonBottom.setVisibility(View.VISIBLE);
                 if(mStoryState==2){
                     mTextView.setText(R.string.T2_Story);
                     mButtonBottom.setText(R.string.T2_Ans2);
@@ -100,17 +101,19 @@ public class MainActivity extends AppCompatActivity {
                     mTextView.setText(R.string.T5_Story);
                     mButtonTop.setText(R.string.T5_Ans1);
                     mButtonBottom.setText(R.string.T5_Ans2);
-                    mStoryState=7;
+                    mStoryState=8;
                 } else if(mStoryState==6){
                     mTextView.setText(R.string.T7_End);
                     mButtonTop.setText(R.string.T7_End2);
-                    mButtonBottom.setText(R.string.T7_End1);
+                    mButtonBottom.setVisibility(View.GONE);
                     mStoryState=2;
                 }   else if(mStoryState==9){
                     mTextView.setText(R.string.T6_End);
                     mButtonTop.setText(R.string.T7_End2);
-                    mButtonBottom.setText(R.string.T7_End1);
+                    mButtonBottom.setVisibility(View.GONE);
                     mStoryState=2;
+                }  else if(mStoryState==8){
+
                 }
             }
         });
